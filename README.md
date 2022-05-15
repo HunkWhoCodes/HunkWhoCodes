@@ -2,17 +2,19 @@
 
 #  I'm Alok!
 I code, write, rap, lift, compose music and sprint.
-
- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aloks17/)
- [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>](https://hunkwhocodes.com)
  
  ### More about me:
  
  I'm a Senior Software Engineer at a Unicorn Startup in NCR. I've ~6 years of work experience. I've a B.Tech degree in Computer Science and Engineering. 
  
- 
+
  ### Technical Stack:
  - Programming Languages: Python, Java, SQL. 
+
+### My Online Profiles, Feel Free to Connect!
+
+ [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aloks17/)
+ [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>](https://hunkwhocodes.com)
 
 
 ### Publications & Presentations:
