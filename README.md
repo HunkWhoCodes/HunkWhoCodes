@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #  I'm Alok!
-I code, write, rap, compose music and sprint.
+I code, write, rap, lift, compose music and sprint.
 
  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aloks17/)
  [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>](https://hunkwhocodes.com)
