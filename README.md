@@ -37,6 +37,12 @@ I code, write, rap, lift, compose music and sprint.
 ### Certificates
 - Programming, Data Structures and Algorithms - NPTEL, IIT Madras
 
+### My DSA Solutions
+- [DSA-TopicWise](https://github.com/HunkWhoCodes/DSA-TopicWise)
+
+### Courses Certifications
+- TBA
+
 <!--
 **HunkWhoCodes/HunkWhoCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
