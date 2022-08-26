@@ -40,7 +40,7 @@ I code, write, rap, lift, compose music and sprint.
 ### My DSA Solutions
 - [DSA-TopicWise](https://github.com/HunkWhoCodes/DSA-TopicWise)
 
-### Courses Certifications
+### Course Certifications
 - TBA
 
 <!--
