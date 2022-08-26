@@ -32,7 +32,7 @@ I code, write, rap, lift, compose music and sprint.
 - Presented a poster of _“An Exploratory Analysis of Cancer Incidence and Environmental Factors in India”_ at Annual Conventions of Indian Society of Remote Sensing.
 
 ### Awards:
-- Sumo Logic Hackathon Judge’s Choice Award - Feb 2019.(For _"Konton" : A Chaos Testing Framework_)
+- Sumo Logic Hackathon Judge’s Choice Award - Feb 2019. (For _"Konton" : A Chaos Testing Framework_)
 
 ### Certificates
 - Programming, Data Structures and Algorithms - NPTEL, IIT Madras
