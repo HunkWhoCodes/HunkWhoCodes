@@ -9,7 +9,12 @@ I code, write, rap, lift, compose music and sprint.
  
 
  ### Technical Stack:
- - Programming Languages: Python, Java, SQL. 
+ - Programming Languages: Python, Java, SQL.
+ - Tools/ Platforms : AWS, Docker, Kubernetes, Jenkins. 
+ - Frameworks: Flask, Django, Spring,  Selenium, Protractor, PyTest, ScalaTest.
+ - Skills: Data Structures, Algorithms, System Design, OOP.
+ - Databases: MySQL, MongoDB, DynamoDB, PostgreSQL.
+ - Misc: Git, JIRA, Agile.
 
 ### My Online Profiles, Feel Free to Connect!
 
@@ -20,6 +25,8 @@ I code, write, rap, lift, compose music and sprint.
 ### Publications & Presentations:
 - Presented a poster of “An Exploratory Analysis of Cancer Incidence and Environmental Factors in India” at Annual Conventions of Indian Society of Remote Sensing.
 
+### Awards:
+- Sumo Logic Hackathon Judge’s Choice Award - Feb 2019.(For "Konton" : A Chaos Testing Framework)
 
 ### Certificates
 - Programming, Data Structures and Algorithms - NPTEL, IIT Madras
