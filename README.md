@@ -9,12 +9,12 @@ I code, write, rap, lift, compose music and sprint.
  
 
  ### Technical Stack:
- - Programming Languages: Python, Java, SQL.
- - Tools/ Platforms : AWS, Docker, Kubernetes, Jenkins. 
- - Frameworks: Flask, Django, Spring,  Selenium, Protractor, PyTest, ScalaTest.
- - Skills: Data Structures, Algorithms, System Design, OOP.
- - Databases: MySQL, MongoDB, DynamoDB, PostgreSQL.
- - Misc: Git, JIRA, Agile.
+ - **Programming Languages**: Python, Java, SQL.
+ - **Tools/ Platforms** : AWS, Docker, Kubernetes, Jenkins. 
+ - **Frameworks**: Flask, Django, Spring,  Selenium, Protractor, PyTest, ScalaTest.
+ - **Skills**: Data Structures, Algorithms, System Design, OOP.
+ - **Databases**: MySQL, MongoDB, DynamoDB, PostgreSQL.
+ - **Misc**: Git, JIRA, Agile.
 
 ### My Online Profiles, Feel Free to Connect!
 
