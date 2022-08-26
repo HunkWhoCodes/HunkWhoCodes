@@ -18,9 +18,15 @@ I code, write, rap, lift, compose music and sprint.
 
 ### My Online Profiles, Feel Free to Connect!
 
- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/aloks17/)
- [<img src="https://img.icons8.com/bubbles/50/4a90e2/domain.png" width="3.5%"/>](https://hunkwhocodes.com)
+ - [LinkedIn](https://www.linkedin.com/in/aloks17/)
+ - [My Website](https://hunkwhocodes.com)
 
+### My Coding Profiles, Feel Free to Connect!
+- [LeetCode](https://leetcode.com/HunkWhoCodes/)
+- [HackerRank](https://www.hackerrank.com/ManofWisdom)
+- [CodeSignal](https://app.codesignal.com/profile/hunkwhocodes)
+- [GeeksForGeeks](https://auth.geeksforgeeks.org/user/alok%20sharma%201/practice)
+- [CodeChef](https://www.codechef.com/users/manofwisdom)
 
 ### Publications & Presentations:
 - Presented a poster of _“An Exploratory Analysis of Cancer Incidence and Environmental Factors in India”_ at Annual Conventions of Indian Society of Remote Sensing.
