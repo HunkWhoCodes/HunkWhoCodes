@@ -5,7 +5,7 @@ I code, write, rap, lift, compose music and sprint.
  
  ### More about me:
  
- I'm a Senior Software Engineer at a Unicorn Startup in NCR. I've 6+ years of work experience. I've a B.Tech degree in Computer Science and Engineering. 
+ I'm a Senior Software Engineer at Confluent. I've 7+ years of work experience. I've a B.Tech degree in Computer Science and Engineering. 
  
 
  ### Technical Stack:
